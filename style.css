@@ -1,0 +1,489 @@
+/* dancing-script-regular - latin */
+@font-face {
+  font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/dancing-script-v25-latin-regular.eot');
+  /* IE9 Compat Modes */
+  src: url('../fonts/dancing-script-v25-latin-regular.eot?#iefix') format('embedded-opentype'),
+    /* IE6-IE8 */
+    url('../fonts/dancing-script-v25-latin-regular.woff2') format('woff2'),
+    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+    url('../fonts/dancing-script-v25-latin-regular.woff') format('woff'),
+    /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+, iOS 5+ */
+    url('../fonts/dancing-script-v25-latin-regular.ttf') format('truetype'),
+    /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+    url('../fonts/dancing-script-v25-latin-regular.svg#DancingScript') format('svg');
+  /* Legacy iOS */
+}
+
+/* open-sans-regular - latin */
+@font-face {
+  font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/open-sans-v36-latin-regular.eot');
+  /* IE9 Compat Modes */
+  src: url('../fonts/open-sans-v36-latin-regular.eot?#iefix') format('embedded-opentype'),
+    /* IE6-IE8 */
+    url('../fonts/open-sans-v36-latin-regular.woff2') format('woff2'),
+    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+    url('../fonts/open-sans-v36-latin-regular.woff') format('woff'),
+    /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+, iOS 5+ */
+    url('../fonts/open-sans-v36-latin-regular.ttf') format('truetype'),
+    /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+    url('../fonts/open-sans-v36-latin-regular.svg#OpenSans') format('svg');
+  /* Legacy iOS */
+}
+
+/* open-sans-500 - latin */
+@font-face {
+  font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 500;
+  src: url('../fonts/open-sans-v36-latin-500.eot');
+  /* IE9 Compat Modes */
+  src: url('../fonts/open-sans-v36-latin-500.eot?#iefix') format('embedded-opentype'),
+    /* IE6-IE8 */
+    url('../fonts/open-sans-v36-latin-500.woff2') format('woff2'),
+    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+    url('../fonts/open-sans-v36-latin-500.woff') format('woff'),
+    /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+, iOS 5+ */
+    url('../fonts/open-sans-v36-latin-500.ttf') format('truetype'),
+    /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+    url('../fonts/open-sans-v36-latin-500.svg#OpenSans') format('svg');
+  /* Legacy iOS */
+}
+
+/* open-sans-500italic - latin */
+@font-face {
+  font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 500;
+  src: url('../fonts/open-sans-v36-latin-500italic.eot');
+  /* IE9 Compat Modes */
+  src: url('../fonts/open-sans-v36-latin-500italic.eot?#iefix') format('embedded-opentype'),
+    /* IE6-IE8 */
+    url('../fonts/open-sans-v36-latin-500italic.woff2') format('woff2'),
+    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+    url('../fonts/open-sans-v36-latin-500italic.woff') format('woff'),
+    /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+, iOS 5+ */
+    url('../fonts/open-sans-v36-latin-500italic.ttf') format('truetype'),
+    /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+    url('../fonts/open-sans-v36-latin-500italic.svg#OpenSans') format('svg');
+  /* Legacy iOS */
+}
+
+/* open-sans-600 - latin */
+@font-face {
+  font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: url('../fonts/open-sans-v36-latin-600.eot');
+  /* IE9 Compat Modes */
+  src: url('../fonts/open-sans-v36-latin-600.eot?#iefix') format('embedded-opentype'),
+    /* IE6-IE8 */
+    url('../fonts/open-sans-v36-latin-600.woff2') format('woff2'),
+    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+    url('../fonts/open-sans-v36-latin-600.woff') format('woff'),
+    /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+, iOS 5+ */
+    url('../fonts/open-sans-v36-latin-600.ttf') format('truetype'),
+    /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+    url('../fonts/open-sans-v36-latin-600.svg#OpenSans') format('svg');
+  /* Legacy iOS */
+}
+
+/* open-sans-700 - latin */
+@font-face {
+  font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/open-sans-v36-latin-700.eot');
+  /* IE9 Compat Modes */
+  src: url('../fonts/open-sans-v36-latin-700.eot?#iefix') format('embedded-opentype'),
+    /* IE6-IE8 */
+    url('../fonts/open-sans-v36-latin-700.woff2') format('woff2'),
+    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+    url('../fonts/open-sans-v36-latin-700.woff') format('woff'),
+    /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+, iOS 5+ */
+    url('../fonts/open-sans-v36-latin-700.ttf') format('truetype'),
+    /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+    url('../fonts/open-sans-v36-latin-700.svg#OpenSans') format('svg');
+  /* Legacy iOS */
+}
+
+/* open-sans-800 - latin */
+@font-face {
+  font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 800;
+  src: url('../fonts/open-sans-v36-latin-800.eot');
+  /* IE9 Compat Modes */
+  src: url('../fonts/open-sans-v36-latin-800.eot?#iefix') format('embedded-opentype'),
+    /* IE6-IE8 */
+    url('../fonts/open-sans-v36-latin-800.woff2') format('woff2'),
+    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+    url('../fonts/open-sans-v36-latin-800.woff') format('woff'),
+    /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+, iOS 5+ */
+    url('../fonts/open-sans-v36-latin-800.ttf') format('truetype'),
+    /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+    url('../fonts/open-sans-v36-latin-800.svg#OpenSans') format('svg');
+  /* Legacy iOS */
+}
+
+/* ------------------- default css ------------------ */
+:root {
+  --blue: #007bff;
+  --indigo: #6610f2;
+  --purple: #6f42c1;
+  --pink: #e83e8c;
+  --red: #dc3545;
+  --orange: #fd7e14;
+  --yellow: #ffc107;
+  --green: #28a745;
+  --teal: #20c997;
+  --cyan: #17a2b8;
+  --white: #fff;
+  --gray: #6c757d;
+  --gray-dark: #343a40;
+  --primary: #007bff;
+  --secondary: #6c757d;
+  --success: #28a745;
+  --info: #17a2b8;
+  --warning: #ffc107;
+  --danger: #dc3545;
+  --light: #f8f9fa;
+  --dark: #343a40;
+
+}
+
+ul,
+ol {
+  list-style: none;
+  margin-bottom: 0;
+  margin-left: 0;
+}
+.layout_padding-bottom{
+  padding-bottom: 90px;
+}
+
+body {
+  font-family: "Open Sans";
+
+}
+
+h1,
+h2 {
+  font-family: 'Dancing Script';
+}
+a{
+  text-decoration: none;
+}
+
+/* ------------- header css start --------------- */
+.navbar-brand {
+  font-family: Dancing Script;
+  font-size: 32px;
+}
+
+.nav-item .nav-link {
+  font-size: 16px;
+  font-weight: 600;
+  text-transform: capitalize;
+  margin: 0 15px;
+  align-items: center;
+  color: #f8f9fa;
+
+
+}
+
+.nav-item:hover a {
+  color: var(--orange);
+
+}
+
+.user-option li a .bi {
+
+  font-size: 20px;
+  padding-right: 10px;
+  align-items: center;
+  color: white;
+
+}
+
+.user-option li:hover a .bi {
+  color: #fd7e14;
+}
+
+.navbar-toggler {
+  color: #f8f9fa;
+}
+
+/* ------------- header css end --------------- */
+/*---------------------slider section start ------------------ */
+.hero-area {
+  position: absolute;
+  min-height: 100vh;
+  display: flex;
+}
+
+.bg-box img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+img {
+  vertical-align: middle;
+}
+
+.slider-section {
+  padding: 200px 0;
+  width: 100%;
+  background-image: url(../image/asset\ 0.jpeg);
+  background-size: cover;
+  align-items: center;
+}
+
+.owl-carousel {
+  position: relative;
+  width: 100%;
+}
+
+.slider-section .detail-box h1 {
+  font-size: 3.5rem;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+.slider_section .carousel-indicators {
+  position: absolute;
+}
+
+.owl-theme .owl-nav.disabled+.owl-dots {
+  text-align: left;
+  margin-top: 100px;
+}
+
+.owl-theme .owl-dots .owl-dot span {
+  color: white;
+  height: 15px;
+  width: 15px;
+}
+
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span {
+  background-color: #fd7e14;
+}
+
+
+/*---------------------slider section end ------------------ */
+
+
+/*---------------------offer section start ------------------ */
+.offer-section {
+  padding-top: 45px;
+}
+
+.box{
+  display: flex;
+  align-items: center;
+  margin-top: 45px;
+  border-radius: 5px;
+  padding: 20px 15px;
+  background-color: #222831;
+  color: #ffffff;
+}
+
+.img-box{
+  width: 175px;
+  height: 175px;
+  min-width: 175px;
+  margin-right: 15px;
+  border-radius: 50%;
+  border: 5px solid #ffbe33;
+  overflow: hidden;
+}
+
+.box .img-box img{
+  width: 100%;
+  vertical-align: middle;
+  border-style: none;
+  transition: .2s;
+}
+.offer_section .box{
+  align-items: center;
+}
+ h5{
+  font-family:'Dancing Script';
+  font-size: 24px;
+}
+.deatile-box h6 span{
+  font-family:'Dancing Script';
+  font-size: 2.5rem;
+  
+}
+.deatile-box h6{
+  font-family:'Dancing Script';
+  margin: 10px 0;
+  font-size: 16px;
+}
+.offer-section .box .img-box img:hover{
+  transform: scale(1.1);
+}
+/*---------------------offer section end ------------------ */
+
+
+
+/* <!------------------ our menu section start ---------------------> */
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+  background-color: #222831;
+  color: #ffffff;
+}
+.nav-pills .nav-link{
+  border-radius:  25px;
+}
+.nav-link{
+  color: #222831;
+}
+.offer-section .card .image-background{
+  background-color: #f1f2f3;
+  padding: 25px;
+  height: 215px;
+  
+  border-radius: 22px 22px 0 45px;
+  display: flex;
+justify-content: center;
+}
+.offer-section .card .image-background img{
+
+max-height: 145px;
+max-width: 145px;
+transition: .3s;
+
+
+}
+.offer-section .card .image-background:hover img{
+transform: scale(1.1);
+}
+.offer-section .card{
+  background-color: #222831;
+  border-radius: 25px  ;
+}
+.offer-section .card-body{
+  color: #f8f9fa;
+}
+.offer-section .card-body .bi{
+background-color: #FFBE33;
+width: 40px;
+height: 40px;
+border-radius: 50%;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.card-body {
+  padding: 25px;
+}
+/* <!------------------ our menu section end ---------------------> */
+
+/* <!----------------- we are feane css section start ---------------------> */
+.about-section{
+  background-color: #222831;
+}
+.layout_padding{
+  padding: 90px 0;
+}
+.about-section .img-box1 img{
+  width: 100%;
+  max-width: 445px;
+  position: relative;
+  z-index: 2;
+}
+.header-sec h2{
+  font-size: 40px;
+  font-weight: 700;
+}
+
+/* <!----------------- we are feane css section end -----------------------> */
+
+/* <!-- form and map css section start --> */
+.book h2{
+  font-size: 40px;
+}
+/* <!-- form and map css section end --> */
+
+
+/* <!-- tastimonial css section start --> */
+.what h2{
+  font-size: 40px;
+  font-weight: 600;
+}
+.owl-theme .owl-nav{
+  margin-top: 50px;
+}
+
+.owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot{
+  width: 45px;
+  height: 45px;
+  /* background-color: #FFBE33; */
+  color: #f1f2f3;
+  font-size: 30px;
+  
+  align-items: center;
+  border-radius: 50%;
+}
+
+.sec-boxes{
+  background-color: #222831;
+  color: #ffffff;
+  padding: 25px 25px 15px 25px;
+  border-radius: 5px;
+}
+/* <!-- tastimonial css section end --> */
+ 
+
+/*--------------- footer section css start -------------------------- */
+ .footer-section{
+  background-color: #222831;
+  padding: 75px 0 40px 0;
+  text-align: center;
+
+ }
+ .footer-section h4{
+  font-family: 'Dancing Script';
+  font-size: 28px;
+  margin-bottom: 20px;
+ }
+ .footer-section .footer-logo{
+  font-family: 'Dancing Script';
+  font-size: 38px;
+  margin-bottom: 25px;
+ }
+ .footer-section .footer_social a .fa-brands{
+  
+  font-size: 20px;
+  align-items: center;
+  padding: 10px;
+  background-color: white;
+  border-radius: 50%;
+ }
+/*--------------- footer section css end -------------------------- */
+
+
+
